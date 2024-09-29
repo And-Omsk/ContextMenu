@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ContextMenu</string>
+    <string name="edit_text_hint">Введите оценку</string>
+    <string name="menu_change_color_title">Цветовое качество</string>
+    <string name="menu_exit_program_title">Выход из программы</string>
+</resources>
